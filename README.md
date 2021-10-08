@@ -8,4 +8,5 @@ to clone this repository on your machine
 
 ```bash
 git clone https://github.com/valforce/html-css
+cd html-css
 ```
